@@ -13,4 +13,5 @@ public class ClienteTo {
     private String nombre;
     private String idCliente;
     private Long id;
+    private boolean estado;
 }
